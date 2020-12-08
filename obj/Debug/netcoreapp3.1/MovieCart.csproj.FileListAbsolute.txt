@@ -39,3 +39,4 @@ C:\Users\alish\source\repos\truYum-Movies\MovieCart\obj\Debug\netcoreapp3.1\Movi
 C:\Users\alish\source\repos\truYum-Movies\MovieCart\obj\Debug\netcoreapp3.1\MovieCart.dll
 C:\Users\alish\source\repos\truYum-Movies\MovieCart\obj\Debug\netcoreapp3.1\MovieCart.pdb
 C:\Users\alish\source\repos\truYum-Movies\MovieCart\obj\Debug\netcoreapp3.1\MovieCart.genruntimeconfig.cache
+C:\Users\alish\source\repos\truYum-Movies\MovieCart\bin\Debug\netcoreapp3.1\MovieCart.yaml
