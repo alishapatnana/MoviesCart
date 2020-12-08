@@ -1,0 +1,36 @@
+2020-12-08 11:09:03,987 Application started. Press Ctrl+C to shut down.
+2020-12-08 11:09:04,003 Hosting environment: Development
+2020-12-08 11:09:04,006 Content root path: C:\Users\alish\source\repos\truYum-Movies\MovieCart
+2020-12-08 11:53:36,784 Application started. Press Ctrl+C to shut down.
+2020-12-08 11:53:36,799 Hosting environment: Development
+2020-12-08 11:53:36,803 Content root path: C:\Users\alish\source\repos\truYum-Movies\MovieCart
+2020-12-08 11:59:52,398 Http post Request Initiated for the user Id 1
+2020-12-08 11:59:52,399 Obtained Valid Model
+2020-12-08 11:59:54,204 Http post Request Initiated for the user Id 1
+2020-12-08 11:59:54,204 Obtained Valid Model
+2020-12-08 12:01:47,551 Http get request initiated for all cart Items
+2020-12-08 12:01:47,551 All the MenuItems were displayed
+2020-12-08 12:01:49,691 Http Delete Request Initiated for the user Id 1
+2020-12-08 12:01:49,713 Http get request initiated for all cart Items
+2020-12-08 12:01:49,713 All the MenuItems were displayed
+2020-12-08 12:01:51,897 Http get request initiated for all cart Items
+2020-12-08 12:01:51,897 All the MenuItems were displayed
+2020-12-08 12:02:58,876 Http post Request Initiated for the user Id 2
+2020-12-08 12:02:58,876 Obtained Valid Model
+2020-12-08 12:02:59,332 Http post Request Initiated for the user Id 2
+2020-12-08 12:02:59,333 Obtained Valid Model
+2020-12-08 12:02:59,825 Http post Request Initiated for the user Id 2
+2020-12-08 12:02:59,825 Obtained Valid Model
+2020-12-08 12:03:00,157 Http post Request Initiated for the user Id 2
+2020-12-08 12:03:00,157 Obtained Valid Model
+2020-12-08 12:03:01,360 Http get request initiated for all cart Items
+2020-12-08 12:03:01,360 All the MenuItems were displayed
+2020-12-08 12:03:03,994 Http Delete Request Initiated for the user Id 2
+2020-12-08 12:03:04,012 Http get request initiated for all cart Items
+2020-12-08 12:03:04,012 All the MenuItems were displayed
+2020-12-08 12:03:04,381 Http Delete Request Initiated for the user Id 2
+2020-12-08 12:03:04,399 Http get request initiated for all cart Items
+2020-12-08 12:03:04,399 All the MenuItems were displayed
+2020-12-08 12:03:04,824 Http Delete Request Initiated for the user Id 2
+2020-12-08 12:03:04,837 Http get request initiated for all cart Items
+2020-12-08 12:03:04,837 All the MenuItems were displayed

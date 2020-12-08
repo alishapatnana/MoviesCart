@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: moviecart-deployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: MovieCart
+  template:
+    metadata:
+      labels:
+        app: MovieCart
+    spec:
+      containers:
+      - name: moviecartrepos
+        image: truyumcr.azurecr.io/moviecartrepos:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: dsconfigsn
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: movielist
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: MovieCart
